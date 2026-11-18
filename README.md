@@ -1,6 +1,6 @@
 ### Hi, I'm Camilo 👋
 
-Founder of **[Inherent Studio](https://inherent.studio)**, based in Québec, Canada. I build tools and experiences that help people see clearly.
+Founder of **[Inherence Studio](https://inherence.ca)**, based in Québec, Canada. I build tools and experiences that help people see clearly.
 
 #### What I'm working on
 
@@ -14,4 +14,4 @@ Founder of **[Inherent Studio](https://inherent.studio)**, based in Québec, Can
 
 #### Find me
 
-[inherent.studio](https://inherent.studio) · [camiloguerrero.com](https://camiloguerrero.com)
+[inherent.studio](https://inherence.ca) · [camiloguerrero.com](https://camiloguerrero.com)
